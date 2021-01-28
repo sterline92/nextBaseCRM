@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Part2_Group15" />
+        <module name="nextBaseCRM" />
         <module name="group_project_15" />
       </profile>
     </annotationProcessing>

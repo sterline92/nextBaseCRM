@@ -1,8 +1,9 @@
-public class Hello {
-    public static void main(String[] args) {
-        System.out.println("Hello World");
+package day26_Arrays2;
 
+import java.util.Arrays;
 
+public class ArraysUtility {
 
+    public static void main(String[] args){
     }
 }

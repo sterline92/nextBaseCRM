@@ -9,6 +9,7 @@
         <module name="Part2_Group15" />
         <module name="nextBaseCRM" />
         <module name="group_project_15" />
+        <module name="group_project_0" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />

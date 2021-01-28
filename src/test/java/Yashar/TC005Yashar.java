@@ -1,3 +1,5 @@
+package Yashar;
+
 public class TC005Yashar {
 
     public static void main(String[] args) {
